@@ -3,7 +3,7 @@ Aplicación para identificar grupos de viviendas repetidas en bases de datos cen
 
 # Modo de uso
 
-Descarga la aplicación desde:
+Para utilizar la aplicación, es posible descargarla desde:
 
 https://github.com/discontinuos/duplicates-finder/releases/tag/on
 
