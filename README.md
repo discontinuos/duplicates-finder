@@ -1,4 +1,4 @@
-# duplicates-finder: Identificador de elementos duplicados
+# Identificador de elementos duplicados
 Aplicación para identificar grupos de viviendas repetidas en bases de datos censales.
 
 # Modo de uso
