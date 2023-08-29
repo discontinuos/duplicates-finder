@@ -35,6 +35,7 @@ La aplicación utiliza la librería de SPSS.NET InteropLibrary (https://spss.cod
 # Contacto
 
 Pablo De Grande / pablodg@gmail.com
+
 Perfil de publicaciones: https://aacademica.org/pablo.de.grande
 
 Esta aplicación fue elaborada para detectar las viviendas duplicadas por parte del Instituto Nacional de Estadística y Censos (INDEC) de la Argentina en el censo de población del año 2010. 
