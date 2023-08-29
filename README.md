@@ -9,7 +9,7 @@ https://github.com/discontinuos/duplicates-finder/releases/tag/on
 
 Una vez expandido el archivo zip, puede ejecutar finde.exe. La aplicación ser verá del siguiente modo:
 
-!(https://raw.githubusercontent.com/discontinuos/duplicates-finder/main/captura.png)
+![aplicación](https://raw.githubusercontent.com/discontinuos/duplicates-finder/main/captura.png)
 
 En esa ventana debe elegirse:
 - el archivo SPSS con los casos (ej. personas)
