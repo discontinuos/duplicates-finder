@@ -1,6 +1,8 @@
 # Identificador de elementos duplicados
 Aplicación para identificar grupos de viviendas repetidas en bases de datos censales.
 
+Esta aplicación fue elaborada y utilizada para detectar las viviendas duplicadas por parte del Instituto Nacional de Estadística y Censos (INDEC) de la Argentina en el censo de población del año 2010. Los datos finales de ese proceso pueden ver en: https://mapa.poblaciones.org/map/87101.
+
 # Modo de uso
 
 Para utilizar la aplicación, es posible descargarla desde:
@@ -38,5 +40,4 @@ Pablo De Grande / pablodg@gmail.com
 
 Perfil de publicaciones: https://aacademica.org/pablo.de.grande
 
-Esta aplicación fue elaborada para detectar las viviendas duplicadas por parte del Instituto Nacional de Estadística y Censos (INDEC) de la Argentina en el censo de población del año 2010. 
 
