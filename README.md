@@ -31,3 +31,11 @@ La aplicación utiliza el Microsoft Framework .NET 4.8. Esto es un runtime de Mi
 
 SPSS.NET InteropLibrary 
 La aplicación utiliza la librería de SPSS.NET InteropLibrary (https://spss.codeplex.com/) para generar archivos nativos de SPSS como salida. Esta librería no requiere una instalación independiente, pero posiblemente deba copiar los archivos de la carpeta SPSSio a su carpeta c:\windows\System32 (o equivalente... hacer Inicio > Ejecutar > %WINDIR%\SYSTEM32 <enter> puede ser una buena forma de identificar la carpeta System32 de la PC).
+
+# Contacto
+
+Pablo De Grande / pablodg@gmail.com
+https://aacademica.org/pablo.de.grande
+
+Esta aplicación fue elaborada para detectar las viviendas duplicadas por parte del Instituto Nacional de Estadística y Censos (INDEC) de la Argentina en el censo de población del año 2010. 
+
