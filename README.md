@@ -9,7 +9,7 @@ Para utilizar la aplicación, es posible descargarla desde:
 
 https://github.com/discontinuos/duplicates-finder/releases/tag/on
 
-Una vez expandido el archivo zip, puede ejecutar finde.exe. La aplicación ser verá del siguiente modo:
+Una vez expandido el archivo zip, puede ejecutar finder.exe. La aplicación ser verá del siguiente modo:
 
 ![aplicación](https://raw.githubusercontent.com/discontinuos/duplicates-finder/main/captura.png)
 
